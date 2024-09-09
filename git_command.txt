@@ -3,3 +3,7 @@ git status
 git add <file1> <file2> / git add .
 git commit -m "committed sucessfully"
 git restore <file1> <file2> / git restore .
+
+git remote add origin <URL of repo>
+git branch -M main
+git push -u origin main
